@@ -16,4 +16,4 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 I am interested in biology and hope to become a pediatrician or biomedical engineer. I enjoy playing the violin and piano. I would also like to learn the guitar (both acoustic and electric). My goals for this course is to become more familiar with different languages of code and apply those skills to other projects.
 
 ---
-*Update this page by editing `index.md` in your repository.*
+
