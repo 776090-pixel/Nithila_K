@@ -1,7 +1,8 @@
 # First Reflection
-What I learned this week (bullets are fine, you may include an image):
+What I learned this week:
 
 - Topic(s):
+The topic for our Digital Citizenship presentation was digital footprint. I worked with Alina and 
 - What I struggled with:
 - What I’m proud of:
 - Next steps:
