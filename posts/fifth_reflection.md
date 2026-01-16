@@ -1,7 +1,7 @@
 # First Reflection
 ## What I learned this week:
 ### Log entry 1
-void mousePressed() {
+
   	while (gameOn == false) {
     if (mouseX>=820 && mouseX<=980 && mouseY>=200 && mouseY<=240) {
   			    gameOn = true;
@@ -17,7 +17,6 @@ void mousePressed() {
  			   }
   }
 
-}
 
 
 During the first day I focussed on figuring out the logic of the startup of the game, including the help screen. I mainly used the mousePressed() function to assign different methods to different buttons. When someone presses start game it calls the first method, which is an explanation for the storyline of the game. When someone clicks on the help button, it opens up a separate screen which provides them with general instructions for the game. I assigned variables for the button’s X and Y coordinates to ensure that it is not being used throughout, and only when the button is at that location.
