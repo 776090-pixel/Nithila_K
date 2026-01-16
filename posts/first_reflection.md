@@ -1,11 +1,11 @@
 # First Reflection
 What I learned this week:
 
-- Topic(s):
+## Topic(s):
 The topic for our Digital Citizenship presentation was digital footprint. I worked with Alina and Vanshika and we each discussed examples of how your digital footprint may impact you in the future, considering long term effects. We also discussed ways to avoid having your digital footprint tainted with negative actions and posts.
-- What I struggled with:
+## What I struggled with:
 I struggled with finding adequate information for my own topic, since all our our topics overlapped. This resulted in some information being repeated therefore we had to collaborate to ensure that we each knew what information we would be sharing to avoid repetition.
-- What I’m proud of:
+## What I’m proud of:
 I'm proud of the activities that were included. I think the blooket was entertaining for everyone. I also think my idea of having everyone search their own names was fun. I also think my information was detailed and included many important points that can help someone in the future.
-- Next steps:
-  Next steps would be to organize the slides so that there is less text on each of them and spreading the information out to make it more of a presentation and not a slide with text.
+## Next steps:
+Next steps would be to organize the slides so that there is less text on each of them and spreading the information out to make it more of a presentation and not a slide with text.
