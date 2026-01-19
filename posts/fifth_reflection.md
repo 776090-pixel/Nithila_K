@@ -16,7 +16,6 @@ boolean background;
 
 //riddle string
 String answer;
-String letters = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM ";
 
 int posX, posY;
 
@@ -71,7 +70,7 @@ objectY2 = new float[]{height, height, height};
 
 randomSpeed2 = new float[]{random(5, 10), random(5, 10), random(5, 10)};
 
-On day 2 I focussed on creating the mini game with dodging objects while falling down a rabbit hole. This required using arrays to repeat an image and allow it to move individually. We used this in one of our previous assignments so I used similar code but made a few changes to match the theme of the game, therefore, instead of objects falling down, they were going up as the character falls down. An issue I came across was resetting the arrays after the user loses because when you press replay they continue falling from where you lost. I resolved this by redefining the arrays after resetting the level.
+On day 2 I focussed on creating the mini game with dodging objects while falling down a rabbit hole. This required using arrays to repeat an image and allow it to move individually. We used this in one of our previous assignments so I used similar code but made a few changes to match the theme of the game, therefore, instead of objects falling down, they were going up as the character falls down. An issue I came across was resetting the arrays after the user loses because when you press replay they continue falling from where you lost. I resolved this by redefining the arrays after resetting the level. See Log entry 5 for use.
 
 ### Log entry 3 - Selection Structure
 if (mouseX>=drinkX&&mouseX<=drinkX+100&&mouseY>=drinkY&&mouseY<=mouseY+150) {
@@ -187,9 +186,10 @@ For repetition structure I used a for loop to go through my arrays for my object
 The topic for our culminating was to create an original game using skills we have learned in class. I decided to make a Wonderland themed escape game where you play different mini games. I started by making an overal plan but I did not end up using all of the stages and methods I had planned due to lack of time and because I was working alone. I started by using a similar code to the Unit 4 project but with the objects moving upwards to show the idea of falling down a rabbit hole. Then I used a randomizer and mousePressed function to create drinks that either let you proceed, remove a life, or make you grow bigger. I also used the key pressed function to move the character with constraints and to take a user's input for the riddle and compare it to the actual answer.
 
 ## What I struggled with:
-I struggled with finishing in time since I had orignally created a bigger plan but because I was working alone and there was a time limit, I was not able to entirely execute it. I also struggled with creating the random drinks and using the backspace to delete the user input. 
+I struggled with finishing in time since I had orignally created a bigger plan but because I was working alone and there was a time limit, I was not able to entirely execute it. I also struggled with creating the random drinks and using the backspace to delete the user input. I also struggled with having my code function properly based on each stage, since some had to be false in order for the next stage to run properly.
 
 ## What I’m proud of:
-I am proud of being able to figure out the backspace deletion by redrawing the background since it made the game more user friendly. I am also proud of the overall idea since I think it is an original idea with an engaging theme. 
+I am proud of being able to figure out the backspace deletion by redrawing the background since it made the game more user friendly. I am also proud of the overall idea since I think it is an original idea with an engaging theme. I also think I used a lot of the things that we learned in class to produce this game and that it showcases my learning very well.
+
 ## Next steps:
-Next steps would be to add in the methods and stages I had taken out to make the game last longer and also to improve stage one. Since the character is leaning towards the right the lives do not decrement properly with the information I added to check the collision.
+Next steps would be to add in the methods and stages I had taken out to make the game last longer and also to improve stage one. Since the character is leaning towards the right the lives do not decrement properly with the information I added to check the collision. I could also figure out new functions to make my game more entertaining and have more skill involved in the gameplay.
